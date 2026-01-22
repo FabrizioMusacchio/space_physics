@@ -1,4 +1,5 @@
-# Space Physics. A collection of Python scripts
+# Space Physics 
+**A collection of Python scripts**
 
 This repository contains Python scripts for different examples from the field of space plasma physics. Each scripts belongs to one of the following blog posts, which provide detailed explanations of the implemented physics and numerical methods:
 
