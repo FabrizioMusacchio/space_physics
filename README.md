@@ -61,11 +61,27 @@ mamba install -y numpy matplotlib scipy imageio ffmpeg ipykernel ipython
 Each script can be run directly using the Python environment described above. In particular, they are written in such a way, that they can be interactively executed cell-by-cell, e.g., in VS Code's interactive window. You can also place them in a Jupyter notebook for step-by-step execution.
 
 ## Citation
-If you use code from this repository for your own research, teaching material, or derived software, please consider citing the corresponding blog post(s) and or this repository. Proper citation helps acknowledge the original source, provides context for the implemented models and assumptions, and supports reproducibility.
+If you use code from this repository for your own research, teaching material, or derived software, please consider citing the Zenodo archive associated with this repository. Proper citation helps acknowledge the original source, provides context for the implemented physical models and numerical assumptions, and supports reproducibility.
 
-A minimal citation can refer to this GitHub repository directly. When appropriate, citing the specific blog post that explains the underlying physics and numerical method in detail is encouraged.
+When appropriate, citing the specific blog post that discusses the underlying physics and numerical methods in detail is encouraged in addition to the repository itself.
 
 If you use substantial parts of the code in an academic publication, a reference to both the repository and the associated blog article is recommended.
+
+Here is the suggested citation format for the repository:
+
+> Musacchio, F. (2026). *Space Physics: A collection of Python scripts*. Zenodo. https://doi.org/10.5281/zenodo.18344030
+
+```bibtex
+@software{musacchio_space_physics_2026,
+  author       = {Musacchio, Fabrizio},
+  title        = {Space Physics: A collection of Python scripts},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18344030},
+  url          = {https://doi.org/10.5281/zenodo.18344030}
+}
+```
+
 
 Thank you for considering proper citation practices.
 
