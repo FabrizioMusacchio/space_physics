@@ -41,8 +41,14 @@ This repository contains Python scripts for different examples from the field of
 * A spectral (FFT) Poisson solver for 1D electrostatic PIC
   * ⟶ `particle_in_cell/`
 
+The scripts are intended as didactic and conceptual examples. They prioritize clarity and physical transparency over numerical efficiency or large-scale applicability. The focus is on illustrating fundamental plasma-physical mechanisms and standard modeling approaches rather than providing optimized or fully general simulation frameworks.
+
+Many scripts deliberately rely on reduced models, idealized geometries, or simplified boundary conditions. These choices are made to keep the connection between equations, numerical implementation, and physical interpretation as direct as possible.
+
+The repository reflects the state of the accompanying blog series and may evolve over time. Backward compatibility is not guaranteed, but changes are typically driven by conceptual clarification rather than feature expansion.
+
 ## Installation
-For reproducibility, it is recommended to create a new conda environment with the following packages:
+For reproducibility, create a new conda environment with the following packages:
 
 ```bash
 conda create -n plasmaphysics python=3.12 mamba -y
@@ -51,9 +57,18 @@ mamba install -y numpy matplotlib scipy imageio ffmpeg ipykernel ipython
 ```
 
 ## Usage
-Each script can be run directly using Python. In particular, they are written in such a way, that they can be interactively executed cell-by-cell, e.g., in VSCode's interactive window. 
+Each script can be run directly using the Python environment described above. In particular, they are written in such a way, that they can be interactively executed cell-by-cell, e.g., in VS Code's interactive window. You can also place them in a Jupyter notebook for step-by-step execution.
 
-# Contact and Support
+## Citation
+If you use code from this repository for your own research, teaching material, or derived software, please consider citing the corresponding blog post(s) and or this repository. Proper citation helps acknowledge the original source, provides context for the implemented models and assumptions, and supports reproducibility.
+
+A minimal citation can refer to this GitHub repository directly. When appropriate, citing the specific blog post that explains the underlying physics and numerical method in detail is encouraged.
+
+If you use substantial parts of the code in an academic publication, a reference to both the repository and the associated blog article is recommended.
+
+Thank you for considering proper citation practices.
+
+## Contact and support
 For questions or suggestions, please open an issue on GitHub or contact the author via email: [Fabrizio Musacchio](mailto:fabrizio.musacchio@posteo.de)
 
 
