@@ -1,0 +1,14 @@
+*.mp4
+magnetic_reconnection/archive/*
+magnetic_reconnection/reconnection_out/frames/*
+magnetic_reconnection/reconnection_out_var/frames/*
+mhd_simulation/frames/*
+parker_spiral/frames_parker_spiral/*
+parker_spiral/frames_parker_spiral_analytic/*
+parker_spiral/frames_parker_spiral_zonal/*
+parker_spiral/frames_parker_spiral_zonal_3d/*
+parker_spiral/frames_parker_spiral_zonal_3d_faster/*
+particle_in_cell/pic_frames_fft/*
+particle_in_cell/pic_output/*
+particle_in_cell/pic_output_energy/*
+particle_in_cell/pic_plots/*
