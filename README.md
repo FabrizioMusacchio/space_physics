@@ -4,42 +4,43 @@
 This repository contains Python scripts for different examples from the field of space plasma physics. Each scripts belongs to one of the following blog posts, which provide detailed explanations of the implemented physics and numerical methods:
 
 
-* Space Physics: A definitional perspective (Overview article)
-* Characteristics of a plasma: Collective behavior, shielding, and intrinsic time scales
+* [Space Physics: A definitional perspective](https://www.fabriziomusacchio.com/blog/2020-08-23-space_physics/) (Overview article)
+* [Characteristics of a plasma: Collective behavior, shielding, and intrinsic time scales](https://www.fabriziomusacchio.com/blog/2020-06-05-plasma_characteristics/)
   * ⟶ `debye_shielding/`
   * ⟶ `plasma_types/`
-* Single-particle description of plasmas: Equation of motion, gyration, and ExB drift
+* [Single-particle description of plasmas: Equation of motion, gyration, and ExB drift](https://www.fabriziomusacchio.com/blog/2020-06-06-single_particle_description_of_plasma/)
   * ⟶ `gyromotion/`
-* Adiabatic invariants and magnetic mirrors
+* [Adiabatic invariants and magnetic mirrors](https://www.fabriziomusacchio.com/blog/2020-08-18-magnetic_mirrors/)
   * ⟶ `magnetic_mirrors/`
-* Magnetohydrodynamics (MHD): A theoretical overview with a numerical toy example
+* [Magnetohydrodynamics (MHD): A theoretical overview with a numerical toy example](https://www.fabriziomusacchio.com/blog/2020-08-19-mhd/)
   * ⟶ `mhd_simulation/`
-* The solar wind and the Parker model
+* [The solar wind and the Parker model](https://www.fabriziomusacchio.com/blog/2020-08-21-solar_wind_and_parker_spiral/)
   * ⟶ `parker_spiral/`
-* Magnetic reconnection: Theory and a simple numerical model
+* [Magnetic reconnection: Theory and a simple numerical model](https://www.fabriziomusacchio.com/blog/2020-08-22-magnetic_reconnection/)
   * ⟶ `magnetic_reconnection/`
-* Magnetic reconnection via X-point collapse
+* [Magnetic reconnection via X-point collapse](https://www.fabriziomusacchio.com/blog/2020-08-22-magnetic_reconnection_y_point_collapse/)
   * ⟶ `magnetic_reconnection/`
-* Plasma waves in space plasmas
+* [Planetary aurorae](https://www.fabriziomusacchio.com/blog/2020-08-30-planetary_aurorae/) (Overview article)
+* [Plasma waves in space plasmas](https://www.fabriziomusacchio.com/blog/2020-09-01-plasma_waves/)
   * ⟶ `plasma_waves/`
-* The Alfvén wave as a fundamental mode of magnetized plasmas
+* [The Alfvén wave as a fundamental mode of magnetized plasmas](https://www.fabriziomusacchio.com/blog/2020-09-01-alfven_wave/)
   * ⟶ `plasma_waves/`
-* Plasma instabilities as dynamical departures from equilibrium (overview article)
-* Kinetic plasma theory: From distribution functions to the Vlasov equation
+* [Plasma instabilities as dynamical departures from equilibrium](https://www.fabriziomusacchio.com/blog/2020-09-01-plasma_instabilities/) (overview article)
+* [Kinetic plasma theory: From distribution functions to the Vlasov equation](https://www.fabriziomusacchio.com/blog/2020-09-05-kinetic_plasma_theory/)
   * ⟶ `vlasov_equation/`
-* Vlasov–Poisson dynamics: Landau damping and the two-stream instability
+* [Vlasov–Poisson dynamics: Landau damping and the two-stream instability](https://www.fabriziomusacchio.com/blog/2020-09-06-vlasov_poisson_dynamics/)
   * ⟶ `vlasov_equation/`
-* What velocity moments miss: Core plus beam distributions
+* [What velocity moments miss: Core plus beam distributions](https://www.fabriziomusacchio.com/blog/2020-09-10-velocity_moments/)
   * ⟶ `vlasov_equation/`
-* Bi-Maxwellian distributions and anisotropic pressure
+* [Bi-Maxwellian distributions and anisotropic pressure](https://www.fabriziomusacchio.com/blog/2020-09-11-bi_maxwellian_distribution/)
   * ⟶ `vlasov_equation/`
-* Kappa versus Maxwell distributions: Suprathermal tails in collisionless plasmas
+* [Kappa versus Maxwell distributions: Suprathermal tails in collisionless plasmas](https://www.fabriziomusacchio.com/blog/2020-09-12-kappa_vs_maxwellian_distribution/)
   * ⟶ `vlasov_equation/`
-* Krook collision operator as velocity-space relaxation
+* [Krook collision operator as velocity-space relaxation](https://www.fabriziomusacchio.com/blog/2020-09-18-krook_collision_operator/)
   * ⟶ `vlasov_equation/`
-* Particle-in-Cell methods in kinetic plasma simulations
+* [Particle-in-Cell methods in kinetic plasma simulations](https://www.fabriziomusacchio.com/blog/2020-09-23-particle_in_cell/)
   * ⟶ `particle_in_cell/`
-* A spectral (FFT) Poisson solver for 1D electrostatic PIC
+* [A spectral (FFT) Poisson solver for 1D electrostatic PIC](https://www.fabriziomusacchio.com/blog/2020-09-26-particle_in_cell_with_fft_poisson_solver/)
   * ⟶ `particle_in_cell/`
 
 The scripts are intended as didactic and conceptual examples. They prioritize clarity and physical transparency over numerical efficiency or large-scale applicability. The focus is on illustrating fundamental plasma-physical mechanisms and standard modeling approaches rather than providing optimized or fully general simulation frameworks.
