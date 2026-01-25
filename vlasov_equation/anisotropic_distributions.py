@@ -1,3 +1,12 @@
+""" 
+Script to visualize schematic anisotropic velocity distributions in (v_perp, v_par):
+ - bi-Maxwellian
+ - drifting Maxwellian
+ - loss-cone distribution
+ 
+author: Fabrizio Musacchio
+date: June 2020
+"""
 # %% IMPORTS
 import numpy as np
 import matplotlib.pyplot as plt
