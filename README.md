@@ -1,6 +1,8 @@
 # Space Physics 
 **A collection of educational Python scripts**
 
+![Particle in Cell Simulation](particle_in_cell/pic_evolution.gif)
+
 This repository contains Python scripts for different examples from the field of space plasma physics. Each scripts belongs to one of the following blog posts, which provide detailed explanations of the implemented physics and numerical methods:
 
 
