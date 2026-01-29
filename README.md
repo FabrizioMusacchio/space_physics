@@ -1,5 +1,4 @@
-# Space Physics 
-**A collection of educational Python scripts**
+# Space Physics: A collection of educational Python scripts
 
 ![GIF Particle in Cell Simulation](particle_in_cell/pic_evolution.gif)
 
