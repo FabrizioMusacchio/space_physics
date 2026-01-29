@@ -1,7 +1,11 @@
 # Release Nnotes for space physics educational script collection
 
-# 🚀 Release v1.0.0
+# 🚀 Release v1.0.1
+This is a minor release that updates the metadata in the individual scripts to reflect the current year (2026) modifications alongside the original creation date (2020). No changes were made to the code functionality or content.
 
+---
+
+# 🚀 Release v1.0.0
 This release marks the first complete and stable publication of the *Space Physics* script collection. It consolidates all Python scripts used throughout the accompanying space plasma physics blog series into a single, citable repository.
 
 Version v1.0.0 establishes a coherent reference point for teaching, reuse, and reproducible exploration of fundamental concepts in space plasma physics.
