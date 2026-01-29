@@ -1,5 +1,5 @@
 # Space Physics 
-**A collection of Python scripts**
+**A collection of educational Python scripts**
 
 This repository contains Python scripts for different examples from the field of space plasma physics. Each scripts belongs to one of the following blog posts, which provide detailed explanations of the implemented physics and numerical methods:
 
@@ -70,12 +70,12 @@ If you use substantial parts of the code in an academic publication, a reference
 
 Here is the suggested citation format for the repository:
 
-> Musacchio, F. (2026). *Space Physics: A collection of Python scripts*. Zenodo. https://doi.org/10.5281/zenodo.18344030
+> Musacchio, F. (2026). *Space Physics: A collection of educational Python scripts*. Zenodo. https://doi.org/10.5281/zenodo.18344030
 
 ```bibtex
 @software{musacchio_space_physics_2026,
   author       = {Musacchio, Fabrizio},
-  title        = {Space Physics: A collection of Python scripts},
+  title        = {Space Physics: A collection of educational Python scripts},
   year         = {2026},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.18344030},
