@@ -5,6 +5,9 @@ rendered as one clean spiral per time step and latitude slice.
 Output
 - One PNG per timestep for GIF creation.
 - Optional in-Python GIF assembly using imageio.
+
+author: Fabrizio Musacchio
+date: Jul 2020 / Jan 2026
 """
 # %% IMPORTS
 from __future__ import annotations

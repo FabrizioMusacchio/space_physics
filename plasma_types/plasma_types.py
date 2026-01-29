@@ -7,7 +7,7 @@ This script is based on scipython.com's tutorial "Types of plasma"
 (https://scipython.com/blog/types-of-plasma/), with modifications.
 
 author: Fabrizio Musacchio
-date: Jun 2020
+date: Jun 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

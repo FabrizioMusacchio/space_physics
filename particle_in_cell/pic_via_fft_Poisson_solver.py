@@ -15,7 +15,7 @@ Key features / simplifications:
 * Leapfrog pusher (electrostatic Boris specialization).
 
 author: Fabrizio Musacchio
-date: Oct 2020
+date: Oct 2020 / Jan 2026
 """
 
 # %% IMPORTS

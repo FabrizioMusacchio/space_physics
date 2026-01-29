@@ -23,7 +23,7 @@ Outputs:
 * ./reconnection_out/initial.png, middle.png, final.png
 
 author: Fabrizio Musacchio
-date: Jul 2020
+date: Jul 2020 / Jan 2026
 """
 # %% IMPORTS
 from __future__ import annotations

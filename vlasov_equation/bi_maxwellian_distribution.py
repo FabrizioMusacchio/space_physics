@@ -15,7 +15,7 @@ Conventions
 * Units are arbitrary unless you plug in m, k_B explicitly. We keep k_B = 1, m = 1 by default.
 
 author: Fabrizio Musacchio
-date: Aug 2020
+date: Aug 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

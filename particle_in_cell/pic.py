@@ -11,7 +11,7 @@ This code visualizes the phase space evolution and energy conservation.
 Original script by Philip Mocz (2020) Princeton University, @PMocz
 https://github.com/pmocz/pic-python/tree/master
 
-modified by: Fabrizio Musacchio (Oct 2020) for educational purposes.
+modified by: Fabrizio Musacchio (Oct 2020 / Jan 2026) for educational purposes.
 
 """
 # %% IMPORTS

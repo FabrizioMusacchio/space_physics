@@ -26,7 +26,7 @@ field line and for the gyro phase evolution. At the mirror points, we reflect
 the parallel velocity.
 
 author: Fabrizio Musacchio
-date: Jul 2020
+date: Jul 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

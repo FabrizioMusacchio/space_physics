@@ -31,7 +31,7 @@ Initial condition:
 This is just for demonstration: not high-end!
 
 Author: Fabrizio Musacchio
-Date: Jul 2020
+Date: Jul 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

@@ -6,7 +6,7 @@ This code initializes a two-stream-like distribution in phase space and advects 
 It also computes and displays the total number of particles to verify conservation.
 
 author: Fabrizio Musacchio
-date: Aug 2020
+date: Aug 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

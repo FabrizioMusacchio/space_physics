@@ -17,7 +17,7 @@ This script:
 * visualizes relaxation in velocity space and tracks moment relaxation
 
 author: Fabrizio Musacchio
-date: Aug 2020
+date: Aug 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

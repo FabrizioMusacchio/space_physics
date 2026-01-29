@@ -1,3 +1,10 @@
+""" 
+Just a simple cold-plasma Appleton–Hartree dispersion relation plotter
+for electromagnetic waves in a magnetized plasma.
+
+author: Fabrizio Musacchio
+date: Jun 2020 / Jan 2026
+"""
 # %% IMPORTS
 import os
 import numpy as np

@@ -1,3 +1,10 @@
+""" 
+Just a simple Clemmow–Mullaly–Allis (CMA) diagram plotter for
+a two-component plasma (electrons + single ion species).
+
+author: Fabrizio Musacchio
+date: Jun 2020 / Jan 2026
+"""
 # %% IMPORTS
 import numpy as np
 import matplotlib.pyplot as plt

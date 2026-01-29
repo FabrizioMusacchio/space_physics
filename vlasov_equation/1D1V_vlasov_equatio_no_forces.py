@@ -8,7 +8,7 @@ This code initializes a Gaussian packet in phase space and advects it exactly us
 It also computes and displays the total number of particles to verify conservation.
 
 author: Fabrizio Musacchio
-date: Aug 2020
+date: Aug 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

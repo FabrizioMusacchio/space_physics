@@ -10,7 +10,7 @@ Goal
 This is a deliberately minimal, pedagogical script.
 
 author: Fabrizio Musacchio
-date: Aug 2024
+date: Aug 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

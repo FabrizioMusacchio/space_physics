@@ -25,6 +25,9 @@ Output
 - Optional GIF via imageio.
 
 No em dashes are used.
+
+author: Fabrizio Musacchio
+date: Jul 2020 / Jan 2026
 """
 
 from __future__ import annotations

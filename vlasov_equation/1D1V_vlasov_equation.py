@@ -10,7 +10,7 @@ The solver uses semi-Lagrangian steps for advection in x and v, and solves Poiss
 equation in Fourier space.
 
 author: Fabrizio Musacchio
-date: Aug 2020
+date: Aug 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

@@ -1,3 +1,9 @@
+""" 
+Just a couple of simple diagrams for Particle in Cell method.
+
+author: Fabrizio Musacchio
+date: Jan 2026
+"""
 # %% IMPORTS
 import os
 import numpy as np

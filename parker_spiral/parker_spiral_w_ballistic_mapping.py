@@ -12,6 +12,9 @@ What it does
 Units
 - r is in meters internally, plotted in AU for readability.
 - Angles in radians.
+
+author: Fabrizio Musacchio
+date: Jul 2020 / Jan 2026
 """
 # %% IMPORTS
 from __future__ import annotations

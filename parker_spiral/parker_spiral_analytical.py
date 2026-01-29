@@ -21,6 +21,9 @@ This is an Archimedean spiral in polar coordinates (r, phi).
 Output
 - One PNG per timestep in out_dir, suitable for ffmpeg/ImageMagick.
 - Optional GIF assembly via imageio.
+
+author: Fabrizio Musacchio
+date: Jul 2020 / Jan 2026
 """
 #  %% IMPORTS
 from __future__ import annotations

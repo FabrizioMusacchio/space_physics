@@ -8,7 +8,7 @@ It is meant as a kinetic space physics showcase: kappa distributions
 retain a power law tail in collisionless plasmas where Maxwellians fail.
 
 author: Fabrizio Musacchio
-date: Aug 2020
+date: Aug 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

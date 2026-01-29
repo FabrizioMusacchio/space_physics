@@ -14,7 +14,7 @@ As integration method, we use a simple explicit RK2 (Heun) scheme:
 For diagnostics, we produces: (1) spacetime heatmaps, (2) snapshots, (3) energy budget
 
 author: Fabrizio Musacchio
-date: June 2024
+date: June 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

@@ -5,7 +5,7 @@ Script to visualize schematic anisotropic velocity distributions in (v_perp, v_p
  - loss-cone distribution
  
 author: Fabrizio Musacchio
-date: June 2020
+date: June 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

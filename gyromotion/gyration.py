@@ -9,7 +9,7 @@ particle in a magnetic field"
 with modifications and extensions.
 
 author: Fabrizio Musacchio
-date: Jun 2020
+date: Jun 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np

@@ -1,3 +1,10 @@
+"""  
+Simple script to plot a schematic phase-space diagram (x, v)
+with a volume element and an exact particle position indicated.
+
+author: Fabrizio Musacchio
+date: Aug 2020 / Jan 2026
+"""
 # %% IMPORTS
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle

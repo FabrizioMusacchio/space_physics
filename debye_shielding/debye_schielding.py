@@ -7,7 +7,7 @@ This script is based on scipython.com's tutorial "The Debye length"
 (https://scipython.com/blog/the-debye-length/), with modifications.
 
 author: Fabrizio Musacchio
-date: Jun 2020
+date: Jun 2020 / Jan 2026
 """
 # %% IMPORTS
 import numpy as np
